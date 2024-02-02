@@ -1,1 +1,2 @@
 print("Juhéj!")
+print("Ju!")
